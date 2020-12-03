@@ -1,0 +1,10 @@
+[Unit]
+Description=Hourly download pacman updates timer.
+
+[Timer]
+OnStartupSec=3min
+OnUnitActiveSec=1hour
+
+[Install]
+WantedBy=timers.target
+
