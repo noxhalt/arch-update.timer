@@ -11,7 +11,7 @@ or manually
 ```bash
 
 # clone repo
-git clone https://github.com/s5is/arch-update.timer.git
+git clone https://github.com/noxhalt/arch-update.timer.git
 
 # and check it!
 cd arch-update.timer
